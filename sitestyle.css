@@ -1,0 +1,55 @@
+html {
+    background-image: url("Imagens/aaa.jpeg");
+    
+
+   
+
+}
+
+body {
+  
+   background-color: white;
+   
+  border-left: 20px solid #6B8E23;
+  border-right: 20px solid #6B8E23;
+    padding: 20px;
+    margin-top: 120px;
+    margin-left: 70px;
+    margin-bottom: 70px;
+    margin-right: 70px;
+    
+}
+
+h1 {
+    font-size: 50px;
+    color: #7a1b0c;
+    font-family: Enchanted Land Regular;
+    text-align: center;
+
+}
+p {
+   
+    font-size: 25px;
+   font-family: Pristina Regular;
+   font-weight : bold;
+    text-align: center; 
+  
+}
+
+h3 {
+    font-size: 35px;
+    font-family: Pristina Regular;
+    color: #718000;
+    text-align: center;
+
+}
+#a {
+   text-align: left;
+   font-weight : bold;
+   font-family: Pristina Regular;
+}
+#title{
+    font-family: Old English Text MT Regular;
+    font-size: 100px;
+    color: #7a1b0c;
+}
